@@ -52,7 +52,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 2.5rem;
+  padding: 2rem;
   gap: 1rem;
 }
 
